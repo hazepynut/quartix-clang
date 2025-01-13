@@ -1,0 +1,10 @@
+```
+  ==> QuartiX Clang LLVM_VERSION
+  ==> Binutils BINUTILS_VERSION
+  ==> Archive size ARCHIVE_SIZE
+  ==> Compressed tar archive with zstd ZSTD_VERSION
+  ==> Host GLIBC GLIBC_VERSION
+```
+
+# Download
+[here](https://github.com/Asteroidd21/quartix-clang/releases/latest)
