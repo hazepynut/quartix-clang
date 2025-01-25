@@ -1,5 +1,5 @@
 ```
-  ==> QuartiX Clang 19.1.7 (20250123)
+  ==> QuartiX Clang 19.1.7 (20250125)
   ==> Binutils 2.43.1
   ==> Archive size 95MB
   ==> Compressed tar archive with zstd 1.5.6
