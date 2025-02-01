@@ -1,7 +1,7 @@
 ```
-  ==> QuartiX Clang 20.0.0git (20250126)
+  ==> QuartiX Clang 20.0.0git (20250201)
   ==> Binutils 2.43.1
-  ==> Archive size 101MB
+  ==> Archive size 106MB
   ==> Compressed tar archive with zstd 1.5.6
   ==> Host GLIBC 2.35
 ```
